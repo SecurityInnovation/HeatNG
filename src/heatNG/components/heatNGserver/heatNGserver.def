@@ -1,0 +1,11 @@
+LIBRARY	"heatNGserver"
+
+EXPORTS
+	disableInterceptionInCurrentThread
+	enableInterceptionInCurrentThread
+	IsHeatCreatedThread
+	HeatCreateThread
+	getOriginalFunctionCaller
+	getCallLevel
+	incrementCallLevel
+	decrementCallLevel

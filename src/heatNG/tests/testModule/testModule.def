@@ -1,0 +1,6 @@
+LIBRARY	"testModule"
+EXPORTS
+	replacementLocalAlloc
+	replacementLoadLibraryExW
+	replacementLoadLibraryW
+	replacementCreateFileW
